@@ -173,7 +173,7 @@
             <key>name</key>
             <string>label.line.ahk</string>
             <key>match</key>
-            <string>^([^: ]+)(:)\s</string>
+            <string>^(\s*[^:\s,`]+)(:)[ \t]*\n</string>
         </dict>
     </array>
 
