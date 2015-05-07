@@ -107,7 +107,6 @@
             { "trigger": "Hotkey(\"If\" [, Expression])", "contents": "Hotkey(${1:\"If\" [}, ${2:Expression]})" },
             { "trigger": "Hotkey(\"IfWinActive|IfWinExist\" [, WinTitle, WinText])", "contents": "Hotkey(${1:\"IfWinActive|IfWinExist\" [}, ${2:WinTitle}, ${3:WinText]})" },
             { "trigger": "Hotkey(KeyName [, LabelName, Options])", "contents": "Hotkey(${1:KeyName [}, ${2:LabelName}, ${3:Options]})" },
-            { "trigger": "Hotkey(Keyname [, LabelName, Options])", "contents": "Hotkey(${1:KeyName [}, ${2:LabelName}, ${3:Options]})" },
             { "trigger": "IL_Add()", "contents": "IL_Add(${1:ImageListID}, ${2:Filename [}, ${3:IconNumber}, ${4:ResizeNonIcon?]})" },
             { "trigger": "IL_Create()", "contents": "IL_Create(${1:[InitialCount}, ${2:GrowCount}, ${3:LargeIcons?]})" },
             { "trigger": "IL_Destroy()", "contents": "IL_Destroy(${1:ImageListID})" },
