@@ -93,7 +93,7 @@
             <key>name</key>
             <string>keyword.other.ahk</string>
             <key>match</key>
-            <string>(\b|^)(?i)(and|blind|button|class|click|close|contains|count|delete|deref|force|global|ignore|in|is|label|left|list|local|ltrim|new|not|off|on|or|parse|pos|raw|read|right|rtrim|static|tab|type)\b</string>
+            <string>([^"\.]\b|^)(?i)(and|blind|button|class|click|close|contains|count|delete|deref|force|global|ignore|in|is|label|left|list|local|ltrim|new|not|off|on|or|parse|pos|raw|read|right|rtrim|static|tab|type)\b</string>
         </dict>
 
         <dict>
