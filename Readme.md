@@ -1,7 +1,7 @@
 Sublime Text Package for AHK v2
 ===============================
 
-This is a Sublime Text syntax highlighting & auto-complete package for AutoHotkey version 2.0.0.0.
+This is a Sublime Text syntax highlighting & auto-complete package for AutoHotkey version 2.
 Forked from [aviaryan's original package for AHK v1](https://github.com/aviaryan/AutoHotkey).
 
 ### Install ###
