@@ -180,7 +180,7 @@
             { "trigger": "ObjSetCapacity(obj, MaxItems)", "contents": "ObjSetCapacity(${1:obj}, ${2:MaxItems})" },
             { "trigger": "OnClipboardChange()", "contents": "OnClipboardChange(${1:Func [}, ${2:AddRemove]})" },
             { "trigger": "OnExit()", "contents": "OnExit(${1:Func [}, ${2:AddRemove]})" },
-            { "trigger": "OnMessage() [", "contents": "OnMessage(${1:MsgNumber [}, ${2:\"FunctionName\"]})" },
+            { "trigger": "OnMessage()", "contents": "OnMessage(${1:MsgNumber}, ${2:\"FunctionName\" [}, ${3:MaxThreadsOrZeroToUnregister]})" },
             { "trigger": "Ord()", "contents": "Ord(${1:String})" },
             { "trigger": "OutputDebug()", "contents": "OutputDebug(${1:Text})" },
             { "trigger": "PixelGetColor()", "contents": "PixelGetColor(${1:X}, ${2:Y [}, ${3:\"Alt\"|\"Slow\"]})" },
